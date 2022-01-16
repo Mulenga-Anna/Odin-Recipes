@@ -1,0 +1,23 @@
+h1 {text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: black;
+}
+        .center {display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 600px;
+            float: right;
+        
+            }
+            body {
+                color: black;
+                font-weight: 200px;
+                font-family: sans-serif;
+                background-color:white ;
+                text-align: left;
+                font-family: Verdana, sans-serif;
+                
+
+            }
